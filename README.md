@@ -8,7 +8,7 @@ this package is made using [flutter_rust_bridge]
 
 native library using these crates:
 
->- rsa : [RSA](https://crates.io/crates/rsa)
+>- rsa : [rsa](https://crates.io/crates/rsa)
 >- rand : [rand](https://crates.io/crates/rand) (used for random number generator for rsa)
 >- once_cell : [once_cell](https://crates.io/crates/once_cell) (used to make aes core singleton to prevent extra constructor calls)
 >- aes : [aes](https://crates.io/crates/aes) (used for aes core as a low level library)
